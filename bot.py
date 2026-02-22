@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # ------------------ تنظیمات ------------------
-TOKEN = "token"
+TOKEN = os.getenv("TOKEN")
 ADMIN_ID = 5302294637
 SPONSOR_CHANNEL = "YangMoein_Tv"
 DB_FILE = "downloads.db"
