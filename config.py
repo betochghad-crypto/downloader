@@ -4,7 +4,7 @@
 
 API_ID = 25611397
 API_HASH = "1263a629169df36d05ad567b1939b02c"
-PHONE_NUMBER = "+989028831781"
+PHONE_NUMBER = "+989940884369"
 
 # ═══════════════════════════════════════════════════
 #   🔐  MTProto Proxy
@@ -18,4 +18,5 @@ SPAM_WINDOW = 10
 SPAM_MUTE_HOURS = 1
 BOT_PASSWORD = "1234"
 PREFIX = "."
+
 ADMIN_USER_ID = 8519806501
